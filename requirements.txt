@@ -4,7 +4,7 @@ certifi==2018.10.15
 chardet==3.0.4
 idna==2.7
 pypiwin32==223
-pywin32==224
+pywin32==301
 requests==2.20.1
 urllib3==1.24.1
 win10toast==0.9
